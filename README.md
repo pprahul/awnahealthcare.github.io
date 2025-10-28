@@ -10,6 +10,6 @@ This repository provides datasets supporting research on non-invasive blood gluc
 - `data/anonymised-train-data-processed-palm-compiled.csv` — Palm spectra for model training
 - `data/anonymised-calibration-data-processed-palm-compiled.csv` — Palm spectra for calibration
 
-**License**
-Data license: CC BY 4.0 (or specify)
-This dataset is shared for academic and non-commercial research use only.
+**Data License:** CC BY-NC 4.0  
+This dataset is shared for academic and non-commercial research use only.  
+Users must provide appropriate citation to the dataset and acknowledge Amrita Vishwa Vidyapeetham in any publications or derivative works.
