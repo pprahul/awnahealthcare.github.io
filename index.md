@@ -26,6 +26,7 @@ Chandran Beena, Hari Prasad P. M, Shereena Shaji, Rahul Krishnan Pathinarupothi,
 
 **License**
 Data license: CC BY 4.0 (or specify)
+This dataset is shared for academic and non-commercial research use only.
 
 Contact
 For questions and collaboration: rahulkrishnan@am.amrita.edu
