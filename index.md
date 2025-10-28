@@ -24,9 +24,9 @@ If you use this dataset or code, please cite:
 "Personalized NIR Spectral Embeddings for Non-invasive Blood Glucose from Human Palms", Durga Padmavilochanan, Pratibha Prabhakaran, Zeena Subramonia Pillai, Arsha
 Chandran Beena, Hari Prasad P. M, Shereena Shaji, Rahul Krishnan Pathinarupothi, P. Venkat Rangan, (submitted to) PLOS Digital Health, 2025.
 
-**License**
-Data license: CC BY 4.0 (or specify)
-This dataset is shared for academic and non-commercial research use only.
+**Data License:** CC BY-NC 4.0  
+This dataset is shared for academic and non-commercial research use only.  
+Users must provide appropriate citation to the dataset and acknowledge Amrita Vishwa Vidyapeetham in any publications or derivative works.
 
 Contact
 For questions and collaboration: rahulkrishnan@am.amrita.edu
