@@ -5,6 +5,7 @@ This dataset supports the development of non-invasive blood glucose estimation m
 
 Repository structure:
 [data/:](https://github.com/pprahul/awnahealthcare.github.io/tree/main/data) 
+
 **Ethics Statement**
 This experimentation to spectroscopically study the blood glucose properties in NIR spectral range, involving human subjects, was reviewed and approved by the
 Institutional Ethics Committee at Amrita Institute of Medical Sciences and Research under approval No: ECASM-AIMS-2024-336. Written informed consent was obtained
