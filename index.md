@@ -1,4 +1,4 @@
-__Palm NIRS for Non‑Invasive Glucose Estimation__
+*__Palm NIRS for Non‑Invasive Glucose Estimation__*
 
 **Abstract**
 This dataset supports the development of non-invasive blood glucose estimation models using palm-based near-infrared spectroscopy (NIRS). It includes spectra collected from glucose solutions, human blood samples, and palm tissue under controlled experimental conditions, enabling analysis of how optical scattering and tissue heterogeneity influence glucose signal quality and model performance.
