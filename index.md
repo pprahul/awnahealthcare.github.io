@@ -20,7 +20,7 @@ Palm spectra for calibration: data/anonymised-calibration-data-processed-palm-co
 **How to cite**
 If you use this dataset or code, please cite:
 
-"Personalized NIR Spectral Embeddings for Non-invasive Blood Glucose from Human Palms", Durga Padmavilochanan, Pratibha Prabhakaran, Zeena Subramonia Pillai, Arsha Chandran Beena, Hari Prasad P. M, Shereena Shaji, Rahul Krishnan Pathinarupothi, P. Venkat Rangan, (in-review) Biomedical Signal Processing and Control, 2025.
+"Personalized NIR Spectral Embeddings for Non-invasive Blood Glucose from Human Palms", Durga Padmavilochanan, Pratibha Prabhakaran, Zeena Subramonia Pillai, Arsha Chandran Beena, Hari Prasad P. M, Shereena Shaji, Rahul Krishnan Pathinarupothi, P. Venkat Rangan, (in-review) Biomedical Signal Processing and Control, 2026.
 
 **Data License:** CC BY-NC 4.0  
 This dataset is shared for academic and non-commercial research use only.  
